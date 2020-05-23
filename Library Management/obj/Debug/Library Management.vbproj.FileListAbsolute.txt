@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Form1.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Form2.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Form3.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Form4.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Form5.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Resources.resources
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\Administrator\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\Administrator\source\repos\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\Administrator\source\repos\Library Management\Library Management\bin\Debug\Library Management.xml
+C:\Users\Administrator\source\repos\Library Management\Library Management\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.xml
+C:\Users\Administrator\source\repos\Library Management\Library Management\obj\Debug\Library Management.pdb
